@@ -1,0 +1,7 @@
+
+instructor 
+groq 
+pydantic 
+openai 
+anthropic
+
